@@ -381,20 +381,20 @@ Screenshots provide visual evidence of application functionality and database st
 1. Clone the repository:
 
    bash
-   git clone <your-github-repository-url>
+   git clone <https://github.com/tymitchell-dev/secure-student-task-manager>
 
-2. Open the Spring Boot backend project directory containing `pom.xml` and `mvnw.cmd`.
+3. Open the Spring Boot backend project directory containing `pom.xml` and `mvnw.cmd`.
 
-3. Configure the database connection in `src/main/resources/application.properties` to match your local MySQL settings. Do not commit database passwords, API keys, or other secrets.
+4. Configure the database connection in `src/main/resources/application.properties` to match your local MySQL settings. Do not commit database passwords, API keys, or other secrets.
 
-4. Start MySQL and ensure that the configured database exists.
+5. Start MySQL and ensure that the configured database exists.
 
-5. Start the application on Windows:
+6. Start the application on Windows:
 
    powershell
    .\mvnw.cmd spring-boot:run
 
-6. Open the login page in your browser:
+7. Open the login page in your browser:
 
    http://localhost:8080/login.html
 
