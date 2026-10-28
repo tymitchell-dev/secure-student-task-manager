@@ -404,4 +404,4 @@ The application requires a valid database configuration and the necessary Maven 
 
 **Ty Mitchell**
 
-Secure Student Task Manager (SSTM) — Software Engineering Project
+Secure Student Task Manager (SSTM) — Senior Project
